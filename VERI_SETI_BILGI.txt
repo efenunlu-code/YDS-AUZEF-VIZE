@@ -1,0 +1,6 @@
+Kaynak: Kullanıcı tarafından sağlanan "YDS / YÖKDİL Kelime Listesi" PDF.
+PDF başlığı: Alfabetik sırayla düzenlenmiş 1492 kelime — 20 Syf.
+Uygulamadaki benzersiz kayıt sayısı: 1493.
+40 adet sütun başlığı (İngilizce) kelime olarak sayılmamıştır.
+Veri alanları: word, meaning, sourceMeaning, page, id.
+Bu sürüm yeni kelime uydurarak 2000'e tamamlanmamıştır; kaynakta bulunan kayıtlar korunmuştur.

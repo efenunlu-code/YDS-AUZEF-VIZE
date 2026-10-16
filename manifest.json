@@ -1,0 +1,9 @@
+{
+  "name": "YDS Kelime Bankası + AUZEF Vize",
+  "short_name": "YDS + AUZEF",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07080a",
+  "theme_color": "#07080a",
+  "lang": "tr"
+}
